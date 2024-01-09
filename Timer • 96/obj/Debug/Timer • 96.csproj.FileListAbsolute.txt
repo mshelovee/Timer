@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Timer • 96\Timer • 96\bin\Debug\Timer • 96.exe.config
+C:\Users\User\source\repos\Timer • 96\Timer • 96\bin\Debug\Timer • 96.exe
+C:\Users\User\source\repos\Timer • 96\Timer • 96\bin\Debug\Timer • 96.pdb
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer___96.Form1.resources
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer___96.Properties.Resources.resources
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.exe
+C:\Users\User\source\repos\Timer • 96\Timer • 96\obj\Debug\Timer • 96.pdb
